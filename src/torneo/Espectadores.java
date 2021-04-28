@@ -1,7 +1,7 @@
 package torneo;
 
-public class Espectadores {
+public class Espectadores extends Persona{
 
-	
+
 	
 }
